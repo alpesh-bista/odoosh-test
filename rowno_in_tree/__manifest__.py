@@ -1,6 +1,6 @@
 {
     "name": "Row Number in tree/list view",
-    "version": "17.0.0.0.2",
+    "version": "17.0.0.0.3",
     "summary": "Show row number in tree/list view.",
     "category": "Other",
     "depends": ["web"],
